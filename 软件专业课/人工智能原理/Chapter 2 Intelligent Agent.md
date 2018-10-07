@@ -45,12 +45,12 @@ The results of psychological experiments &rarr; Soar, a cognitive architecture
 
 ### Symbolism vs. Connectionism 符号主义与连接主义
 
-***Symbolist AI** 符号主义 AI
+***Symbolist AI*** 符号主义 AI
 
 - It represents information through symbols and their relationships. 凭借符号及它们之间的关系来表征信息。
 - **Specific algorithms** are used to process these symbols to solve problems or deduce new knowledge. **特定算法** 用于处理这些符号来解决问题和推导新的知识。
 
-***Connectionist AI** 连接主义 AI
+***Connectionist AI*** 连接主义 AI
 
 - It represents information in a distributed form within a network. 用网络内部的一种分布式形式来表征信息。
 - It imitates **biological processes** underlying learing, task performance, and problem solving. 模仿 **生物学过程** 的基础学习、任务功效和问题求解。
@@ -250,4 +250,4 @@ It is responsible for suggesting actions that will lead to new experiences.
 - Believable agents 可信智能体
 - Data-mining agents 数据挖掘智能体
 
-![第二章]()http://oxnec2zdn.bkt.clouddn.com/rengongzhineng/dierzhang.PNG)
+[第二章](http://oxnec2zdn.bkt.clouddn.com/rengongzhineng/dierzhang.PNG)
