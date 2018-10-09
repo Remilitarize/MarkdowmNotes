@@ -51,7 +51,7 @@ x = eval(x)
 
 ### Matlab 工作环境
 
-[Matlab 工作环境](http://oxnec2zdn.bkt.clouddn.com/matlab/matlabgongzuohuanjing.PNG)
+![Matlab 工作环境](http://oxnec2zdn.bkt.clouddn.com/matlab/matlabgongzuohuanjing.PNG)
 
 - Matlab 主窗口
     - 功能区
